@@ -11,7 +11,7 @@ function TopUi(props){
     const [main, setMain] = useState(true);
 
     useEffect(() => {
-        if(location.pathname === '/archive'){
+        if(location.pathname === '/archive/'){
             setMain(true)
         }else{
             setMain(false)
