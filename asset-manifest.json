@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/archive/static/css/main.f46f17b8.css",
+    "main.js": "/archive/static/js/main.2b34b3ae.js",
+    "static/media/2.png": "/archive/static/media/2.8814383933d320517086.png",
+    "static/media/Pimg4.jpg": "/archive/static/media/Pimg4.81fa6501fafa05fea1f7.jpg",
+    "static/media/Pimg12.jpg": "/archive/static/media/Pimg12.f5e3af4bdc7a5f95e00d.jpg",
+    "static/media/background.png": "/archive/static/media/background.ec76e73859d7ac984bf8.png",
+    "static/media/Pimg14.jpg": "/archive/static/media/Pimg14.54753ad3d719846574b2.jpg",
+    "static/media/Pimg2.jpg": "/archive/static/media/Pimg2.f7d74dcad7087063c8d2.jpg",
+    "static/media/BCard.png": "/archive/static/media/BCard.e9b4b1b73b4679f7b85a.png",
+    "static/media/Pimg6.jpg": "/archive/static/media/Pimg6.0480527defdc1afa379f.jpg",
+    "static/media/Pimg16.jpg": "/archive/static/media/Pimg16.d1d1d3e096a021e61da2.jpg",
+    "static/media/Pimg11.jpg": "/archive/static/media/Pimg11.b529373f21470bb911a6.jpg",
+    "static/media/Pimg15.jpg": "/archive/static/media/Pimg15.7c081ad62ced43aa2dac.jpg",
+    "static/media/Checklist.png": "/archive/static/media/Checklist.8d86e8b11dd90acd758e.png",
+    "static/media/Pimg5.jpg": "/archive/static/media/Pimg5.6db3525f5fa7ebc4b4ec.jpg",
+    "static/media/Pimg1.jpg": "/archive/static/media/Pimg1.efbb21c329cc9446a8df.jpg",
+    "static/media/project.png": "/archive/static/media/project.8a89fa35e364f973a0bd.png",
+    "static/media/Pimg17.jpg": "/archive/static/media/Pimg17.320725a26a831a946cd4.jpg",
+    "static/media/Pimg3.jpg": "/archive/static/media/Pimg3.571aa47d1d4844a6440b.jpg",
+    "static/media/Pimg10.jpg": "/archive/static/media/Pimg10.f5e31c35c4f7742e59c5.jpg",
+    "static/media/Pimg19.jpg": "/archive/static/media/Pimg19.18411b55b01f75606f47.jpg",
+    "static/media/1.jpg": "/archive/static/media/1.cafcc7c6d00b892a1b25.jpg",
+    "static/media/Pimg18.jpg": "/archive/static/media/Pimg18.3fbd6587d8b4110935e9.jpg",
+    "static/media/banner.png": "/archive/static/media/banner.3f23a8f6940d6977577d.png",
+    "index.html": "/archive/index.html",
+    "main.f46f17b8.css.map": "/archive/static/css/main.f46f17b8.css.map",
+    "main.2b34b3ae.js.map": "/archive/static/js/main.2b34b3ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f46f17b8.css",
+    "static/js/main.2b34b3ae.js"
+  ]
+}
