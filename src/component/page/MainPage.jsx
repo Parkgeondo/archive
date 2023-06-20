@@ -19,7 +19,7 @@ function MainCard(props){
         <div className={styles.back}>
             <div className={styles.hero}>
                 <h1>We are <br /> Design Dept.</h1>
-                <p>한국공학대학교 디자인학부의 졸업작품을 아카이빙하는
+                <p>한국공학대학교 디자인학부의 작품들을 아카이빙하는
                     사이트입니다.
                 </p>
             </div>

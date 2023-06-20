@@ -12,7 +12,8 @@
                     "form":"UI/UX",
                     "filed":"교육",
                     "img":"./img/Project/1.jpg",
-                    "thum":"/img/1.png"
+                    "thum":"/img/1.png",
+                    "scrap":false
                 }
             ]
         }
@@ -30,7 +31,8 @@
                     "form":"UI/UX",
                     "filed":"친환경",
                     "img":"./img/Project/2.png",
-                    "thum":"/img/2.png"
+                    "thum":"/img/2.png",
+                    "scrap":false
                 }
             ]
         }
@@ -48,7 +50,8 @@
                     "form":"UI/UX",
                     "filed":"교육",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/3.png"
+                    "thum":"/img/3.png",
+                    "scrap":true
                 }
             ]
         }
@@ -66,7 +69,8 @@
                     "form":"UI/UX",
                     "filed":"친환경",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/4.png"
+                    "thum":"/img/4.png",
+                    "scrap":false
                 },
                 {
                     "studentName":"홍민지",
@@ -76,7 +80,8 @@
                     "form":"UI/UX",
                     "filed":"디지털 트윈",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/5.png"
+                    "thum":"/img/5.png",
+                    "scrap":true
                 }
                 ,
                 {
@@ -87,7 +92,8 @@
                     "form":"3D",
                     "filed":"메타버스",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/6.png"
+                    "thum":"/img/6.png",
+                    "scrap":false
                 }
             ]
         }
@@ -105,7 +111,8 @@
                     "form":"UI/UX",
                     "filed":"친환경",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/7.png"
+                    "thum":"/img/7.png",
+                    "scrap":false
                 },
                 {
                     "studentName":"박건도",
@@ -115,7 +122,8 @@
                     "form":"3D",
                     "filed":"디지털 트윈",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/8.png"
+                    "thum":"/img/8.png",
+                    "scrap":false
                 },
                 {
                     "studentName":"박건도",
@@ -125,7 +133,8 @@
                     "form":"디지털 아트",
                     "filed":"디지털 트윈",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/9.png"
+                    "thum":"/img/9.png",
+                    "scrap":true
                 }
             ]
         }
@@ -142,7 +151,9 @@
                     "form":"UI/UX",
                     "filed":"친환경",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/10.png"
+                    "thum":"/img/10.png",
+                    "scrap":false
+
                 },
                 {
                     "studentName":"김철수",
@@ -152,7 +163,9 @@
                     "form":"3D",
                     "filed":"디지털 트윈",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/11.png"
+                    "thum":"/img/11.png",
+                    "scrap":true
+
                 }
                 ,
                 {
@@ -163,7 +176,9 @@
                     "form":"UI/UX",
                     "filed":"AI",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/12.png"
+                    "thum":"/img/12.png",
+                    "scrap":false
+
                 }
                 ,
                 {
@@ -174,7 +189,9 @@
                     "form":"영상/모션그래픽",
                     "filed":"키즈",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/13.png"
+                    "thum":"/img/13.png",
+                    "scrap":false
+
                 }
                 ,
                 {
@@ -185,7 +202,8 @@
                     "form":"디지털아트",
                     "filed":"친환경",
                     "img":"./img/Project/3.png",
-                    "thum":"/img/14.png"
+                    "thum":"/img/14.png",
+                    "scrap":false
                 }
             ]
         }

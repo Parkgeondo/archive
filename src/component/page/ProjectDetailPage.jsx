@@ -11,16 +11,24 @@ const Modal = ({ showModal, setShowModal }) => {
 
   const [data, setData] = useState()
 
+  // useEffect(function(){
+  //   let tempData = []
+  //   db.collection('post').get().then(function(qs){
+  //     qs.forEach(function(doc){
+  //       tempData.push(doc.data())
+  //     })
+  //     setData(tempData)
+  //     console.log(data)
+  //   })
+  // },[])
+
   useEffect(function(){
-    let tempData = []
-    db.collection('post').get().then(function(qs){
-      qs.forEach(function(doc){
-        tempData.push(doc.data())
-      })
-      setData(tempData)
-      console.log(data)
-    })
-  },[])
+    console.log(goodtext)
+  },[goodtext, badtext])
+
+  function send(){
+    
+  }
 
   return (
     <>
@@ -44,7 +52,7 @@ const Modal = ({ showModal, setShowModal }) => {
             </div>
 
             <div className="button-area">
-              <button className="close-button" onClick={() => setShowModal(false)}>
+              <button className="close-button" onClick={() => {setShowModal(false); send()}}>
               <img src='https://i.postimg.cc/c4QLZbNG/Frame-3900.png' width={30}></img>
               스크랩하기
               </button>
