@@ -20,7 +20,7 @@ function App(props){
         <BrowserRouter>
         <GNB></GNB> 
             <Routes>
-                <Route path="archive" element={<Mainpage/>}/>
+                <Route path="archive/" element={<Mainpage/>}/>
                 <Route path="ProjectPage" element={<ProjectPage/>}/>
                 <Route path="StudentPage" element={<StudentPage/>}/>
                 <Route path="PersonalPage" element={<PersonalPage/>}/>
