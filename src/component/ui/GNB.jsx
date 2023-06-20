@@ -25,7 +25,7 @@ function TopUi(props){
                 <div className={styles.Logo}>
                 <label class="boxradio">
                     <input type="radio" name="shape" />
-                    <img src={main?logo2:logo} alt="" onClick={() => {nav("/");
+                    <img src={main?logo2:logo} alt="/archive" onClick={() => {nav("/");
             }}/>
                 </label>
                 </div>
