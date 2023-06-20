@@ -11,7 +11,7 @@ function TopUi(props){
     const [main, setMain] = useState(true);
 
     useEffect(() => {
-        if(location.pathname === '/'){
+        if(location.pathname === '/archive'){
             setMain(true)
         }else{
             setMain(false)
@@ -25,7 +25,7 @@ function TopUi(props){
                 <div className={styles.Logo}>
                 <label class="boxradio">
                     <input type="radio" name="shape" />
-                    <img src={main?logo2:logo} alt="/archive" onClick={() => {nav("/");
+                    <img src={main?logo2:logo} alt="" onClick={() => {nav("/archive");
             }}/>
                 </label>
                 </div>
